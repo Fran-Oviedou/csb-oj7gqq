@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fran-oviedou.github.io/csb-oj7gqq/static/css/main.0143e86d.chunk.css",
+    "main.js": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/main.6c070a32.chunk.js",
+    "main.js.map": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/main.6c070a32.chunk.js.map",
+    "runtime-main.js": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/runtime-main.e26b6a57.js",
+    "runtime-main.js.map": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/runtime-main.e26b6a57.js.map",
+    "static/js/2.33e0ef0b.chunk.js": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/2.33e0ef0b.chunk.js",
+    "static/js/2.33e0ef0b.chunk.js.map": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/2.33e0ef0b.chunk.js.map",
+    "index.html": "https://fran-oviedou.github.io/csb-oj7gqq/index.html",
+    "static/css/main.0143e86d.chunk.css.map": "https://fran-oviedou.github.io/csb-oj7gqq/static/css/main.0143e86d.chunk.css.map",
+    "static/js/2.33e0ef0b.chunk.js.LICENSE.txt": "https://fran-oviedou.github.io/csb-oj7gqq/static/js/2.33e0ef0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26b6a57.js",
+    "static/js/2.33e0ef0b.chunk.js",
+    "static/css/main.0143e86d.chunk.css",
+    "static/js/main.6c070a32.chunk.js"
+  ]
+}
